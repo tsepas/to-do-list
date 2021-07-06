@@ -14,7 +14,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd to-do-app
+  cd to-do-list
 ```
 
 Install dependencies
